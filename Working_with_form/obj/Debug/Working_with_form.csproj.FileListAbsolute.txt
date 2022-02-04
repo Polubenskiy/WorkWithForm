@@ -1,0 +1,80 @@
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form\Working_with_form\bin\Debug\Working_with_form.exe.config
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form\Working_with_form\bin\Debug\Working_with_form.exe
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form\Working_with_form\bin\Debug\Working_with_form.pdb
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form\Working_with_form\obj\Debug\Working_with_form.csproj.AssemblyReference.cache
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form\Working_with_form\obj\Debug\Working_with_form.csproj.SuggestedBindingRedirects.cache
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form\Working_with_form\obj\Debug\Working_with_form.Properties.Resources.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form\Working_with_form\obj\Debug\Working_with_form.csproj.GenerateResource.cache
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form\Working_with_form\obj\Debug\Working_with_form.csproj.CoreCompileInputs.cache
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form\Working_with_form\obj\Debug\Working_with_form.exe
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form\Working_with_form\obj\Debug\Working_with_form.pdb
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form\Working_with_form\obj\Debug\Working_with_form.MenuManagement.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form\Working_with_form\obj\Debug\Working_with_form.Forms.Exit.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form\Working_with_form\obj\Debug\Working_with_form.Forms.Editor.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form\Working_with_form\obj\Debug\Working_with_form.PersonalAccount.resources
+C:\Users\stud\293\Полубенский и Лукьянов\МДК\Курс_3\Working_with_form\Working_with_form\bin\Debug\Working_with_form.exe.config
+C:\Users\stud\293\Полубенский и Лукьянов\МДК\Курс_3\Working_with_form\Working_with_form\bin\Debug\Working_with_form.exe
+C:\Users\stud\293\Полубенский и Лукьянов\МДК\Курс_3\Working_with_form\Working_with_form\bin\Debug\Working_with_form.pdb
+C:\Users\stud\293\Полубенский и Лукьянов\МДК\Курс_3\Working_with_form\Working_with_form\obj\Debug\Working_with_form.csprojAssemblyReference.cache
+C:\Users\stud\293\Полубенский и Лукьянов\МДК\Курс_3\Working_with_form\Working_with_form\obj\Debug\Working_with_form.Forms.Exit.resources
+C:\Users\stud\293\Полубенский и Лукьянов\МДК\Курс_3\Working_with_form\Working_with_form\obj\Debug\Working_with_form.Forms.Editor.resources
+C:\Users\stud\293\Полубенский и Лукьянов\МДК\Курс_3\Working_with_form\Working_with_form\obj\Debug\Working_with_form.MenuManagement.resources
+C:\Users\stud\293\Полубенский и Лукьянов\МДК\Курс_3\Working_with_form\Working_with_form\obj\Debug\Working_with_form.Forms.PriceList.resources
+C:\Users\stud\293\Полубенский и Лукьянов\МДК\Курс_3\Working_with_form\Working_with_form\obj\Debug\Working_with_form.PersonalAccount.resources
+C:\Users\stud\293\Полубенский и Лукьянов\МДК\Курс_3\Working_with_form\Working_with_form\obj\Debug\Working_with_form.Properties.Resources.resources
+C:\Users\stud\293\Полубенский и Лукьянов\МДК\Курс_3\Working_with_form\Working_with_form\obj\Debug\Working_with_form.csproj.GenerateResource.cache
+C:\Users\stud\293\Полубенский и Лукьянов\МДК\Курс_3\Working_with_form\Working_with_form\obj\Debug\Working_with_form.csproj.CoreCompileInputs.cache
+C:\Users\stud\293\Полубенский и Лукьянов\МДК\Курс_3\Working_with_form\Working_with_form\obj\Debug\Working_with_form.exe
+C:\Users\stud\293\Полубенский и Лукьянов\МДК\Курс_3\Working_with_form\Working_with_form\obj\Debug\Working_with_form.pdb
+F:\Working_with_form\Working_with_form\bin\Debug\Working_with_form.exe.config
+F:\Working_with_form\Working_with_form\bin\Debug\Working_with_form.exe
+F:\Working_with_form\Working_with_form\bin\Debug\Working_with_form.pdb
+F:\Working_with_form\Working_with_form\obj\Debug\Working_with_form.csprojAssemblyReference.cache
+F:\Working_with_form\Working_with_form\obj\Debug\Working_with_form.Forms.Exit.resources
+F:\Working_with_form\Working_with_form\obj\Debug\Working_with_form.Forms.Editor.resources
+F:\Working_with_form\Working_with_form\obj\Debug\Working_with_form.MenuManagement.resources
+F:\Working_with_form\Working_with_form\obj\Debug\Working_with_form.Forms.PriceList.resources
+F:\Working_with_form\Working_with_form\obj\Debug\Working_with_form.PersonalAccount.resources
+F:\Working_with_form\Working_with_form\obj\Debug\Working_with_form.Properties.Resources.resources
+F:\Working_with_form\Working_with_form\obj\Debug\Working_with_form.csproj.GenerateResource.cache
+F:\Working_with_form\Working_with_form\obj\Debug\Working_with_form.csproj.CoreCompileInputs.cache
+F:\Working_with_form\Working_with_form\obj\Debug\Working_with_form.exe
+F:\Working_with_form\Working_with_form\obj\Debug\Working_with_form.pdb
+C:\Users\stud\293\Полубенский и Лукьянов\МДК\Курс_3\Working_with_form\Working_with_form\obj\Debug\Working_with_form.csproj.ResolveComReference.cache
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form\Working_with_form\obj\Debug\Working_with_form.csproj.ResolveComReference.cache
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form\Working_with_form\obj\Debug\Working_with_form.Forms.Catalog.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form\Working_with_form\obj\Debug\Working_with_form.PriceList.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form_v2\Working_with_form\bin\Debug\Working_with_form.exe.config
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form_v2\Working_with_form\bin\Debug\Working_with_form.exe
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form_v2\Working_with_form\bin\Debug\Working_with_form.pdb
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.csproj.AssemblyReference.cache
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.csproj.SuggestedBindingRedirects.cache
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.csproj.ResolveComReference.cache
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.Forms.Exit.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.Forms.Editor.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.MenuManagement.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.PersonalAccount.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.PriceList.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.Properties.Resources.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.csproj.GenerateResource.cache
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.csproj.CoreCompileInputs.cache
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.exe
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.pdb
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.Forms.Catalog.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\FormWithExcel\Working_with_form_v2\Working_with_form\bin\Debug\Working_with_form.exe.config
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\FormWithExcel\Working_with_form_v2\Working_with_form\bin\Debug\Working_with_form.exe
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\FormWithExcel\Working_with_form_v2\Working_with_form\bin\Debug\Working_with_form.pdb
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\FormWithExcel\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.csproj.AssemblyReference.cache
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\FormWithExcel\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.csproj.SuggestedBindingRedirects.cache
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\FormWithExcel\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.csproj.ResolveComReference.cache
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\FormWithExcel\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.Forms.Catalog.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\FormWithExcel\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.Forms.Exit.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\FormWithExcel\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.Forms.Editor.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\FormWithExcel\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.MenuManagement.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\FormWithExcel\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.PersonalAccount.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\FormWithExcel\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.PriceList.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\FormWithExcel\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.Properties.Resources.resources
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\FormWithExcel\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.csproj.GenerateResource.cache
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\FormWithExcel\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.csproj.CoreCompileInputs.cache
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\FormWithExcel\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.exe
+F:\Users\ILuvatar\Documents\Programming\Visual Studio 2019\C#\Projects C#\Course_3\MDK_01.01\FormWithExcel\Working_with_form_v2\Working_with_form\obj\Debug\Working_with_form.pdb
