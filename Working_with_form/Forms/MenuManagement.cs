@@ -71,13 +71,10 @@ namespace Working_with_form
             filePath = path + @"\Catalog.xlsx";
             // Создание объекта 
             excelApp = new ExcelHelper();
-
             // Отображение приложения
             ExcelHelper.application.Visible = false;
-
             //Отключить отображение окон с сообщениями
-            ExcelHelper.application.DisplayAlerts = false;
-
+            ExcelHelper.application.DisplayAlerts = true;
             // Открытие существующего файла
             excelApp.OpenFile(filePath);
         }

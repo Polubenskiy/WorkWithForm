@@ -22,8 +22,6 @@ namespace Working_with_form.Forms
         }
 
         DialogResult dialogResult;
-        ImageList imageList;
-        Image tempImage;
         ListViewItem listViewItem;
         string categoria;
         string[] categories;
@@ -47,7 +45,6 @@ namespace Working_with_form.Forms
 
         private void Editor_Load(object sender, EventArgs e)
         {
-            ExcelHelper.application.Visible = false;
 
             MinimumSize = new Size(727, 820);
             MaximumSize = new Size(727, 820);
@@ -129,13 +126,13 @@ namespace Working_with_form.Forms
 
         private void pictureBoxImage_Click(object sender, EventArgs e)
         {
-            if (this.openFileDialog.ShowDialog() == DialogResult.OK)
-            {
+            //if (this.openFileDialog.ShowDialog() == DialogResult.OK)
+            //{
 
-                Bitmap temp = new Bitmap(openFileDialog.FileName); //Картинка изображения
-                imageList.Images.Add(new Bitmap(temp));
-                pictureBoxImage.Image = temp;
-            }
+            //    Bitmap temp = new Bitmap(openFileDialog.FileName); //Картинка изображения
+            //    imageList.Images.Add(new Bitmap(temp));
+            //    pictureBoxImage.Image = temp;
+            //}
         }
 
         public void WriteListView()
@@ -143,7 +140,7 @@ namespace Working_with_form.Forms
             listView.Items.Clear();
 
             // Создание списоков изображений для строк listView
-            imageList = new ImageList();
+            ImageList imageList = new ImageList();
             // устанавливаем размер изображений
             imageList.ImageSize = new Size(100, 100);
 
